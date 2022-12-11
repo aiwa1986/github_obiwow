@@ -1,0 +1,6 @@
+1. Install Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. Sign up for GitHub (https://github.com/signup)
+3. (Optional, but highly recommended) Setup SSH keys (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+4. (Optional) Install Gitflow (not needed for Windows users, Ubuntu: `apt install git-flow`, OSX: `brew install git-flow`)
+5. (Optional) Install Visual Studio Code (https://code.visualstudio.com/download)
+6. (Optional) Install GitLens in Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
